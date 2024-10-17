@@ -3,7 +3,7 @@ Version:	40213
 Release:	2
 Summary:	Enclose the document body with some pieces of code
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxenclose
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bxenclose
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxenclose.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxenclose.doc.r%{version}.tar.xz
