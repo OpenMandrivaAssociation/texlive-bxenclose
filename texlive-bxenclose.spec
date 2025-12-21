@@ -8,6 +8,7 @@ License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxenclose.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bxenclose.doc.r%{version}.tar.xz
 BuildArch:	noarch
+BuildRequires:	make
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
 Requires(post):	texlive-kpathsea
